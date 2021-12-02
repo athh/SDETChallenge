@@ -14,9 +14,9 @@ To run everytime after
 
 ## Reports 
 
-> "/tests_output"
+> /tests_output
 
 ## Screenshots
 
-> "/screenshots/final_amazon.png"
-> "/screenshots/final_microsoft.png"
+> /screenshots/final_amazon.png
+> /screenshots/final_microsoft.png
